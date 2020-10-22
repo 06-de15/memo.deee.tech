@@ -1,7 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to deee's memo
 [粒度とは](./2020/10/20/ryudo)
 
 [変数とは](./2020/10/21/hensuu)
+
+[インターフェースとは](./2020/10/22/interface)
 
 You can use the [editor on GitHub](https://github.com/06-de15/memo.deee.tech/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
