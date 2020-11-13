@@ -7,6 +7,9 @@
 
 [文字列の連結方法](./2020/10/23mojiretsu_renketu)
 
+[Windows10でPower Shellを管理者として実行したかった](./2020/11/13/win10-Administrator)
+
+
 You can use the [editor on GitHub](https://github.com/06-de15/memo.deee.tech/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
