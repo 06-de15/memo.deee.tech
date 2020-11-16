@@ -5,7 +5,9 @@
 
 [インターフェースとは](./2020/10/22/interface)
 
-[文字列の連結方法](./2020/10/23mojiretsu_renketu)
+[文字列の連結方法](./2020/10/23/mojiretsu_renketu)
+
+[配列](/2020/10/27/hairetu)
 
 [Windows10でPower Shellを管理者として実行したかった](./2020/11/13/win10-Administrator)
 
