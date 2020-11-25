@@ -11,6 +11,8 @@
 
 [Windows10でPower Shellを管理者として実行したかった](./2020/11/13/win10-Administrator)
 
+[36協定](/2020/11/25/36)
+
 
 You can use the [editor on GitHub](https://github.com/06-de15/memo.deee.tech/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
