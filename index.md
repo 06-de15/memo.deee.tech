@@ -7,13 +7,13 @@
 
 [文字列の連結方法](./2020/10/23/mojiretsu_renketu)
 
-[配列](/2020/10/27/hairetu)
+[配列](./2020/10/27/hairetu)
 
 [Windows10でPower Shellを管理者として実行したかった](./2020/11/13/win10-Administrator)
 
-[36協定](/2020/11/25/36)
+[36協定](./2020/11/25/36)
 
-[ログローテート](/2020/12/2/log_rotate)
+[ログローテート](./2020/12/2/log_rotate)
 
 
 You can use the [editor on GitHub](https://github.com/06-de15/memo.deee.tech/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
