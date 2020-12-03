@@ -17,6 +17,8 @@
 
 [CLI](./2020/12/3/cli)
 
+[A/Bテスト](./2020/12/3/a_b_test)
+
 
 You can use the [editor on GitHub](https://github.com/06-de15/memo.deee.tech/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
