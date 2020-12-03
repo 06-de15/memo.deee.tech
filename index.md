@@ -15,6 +15,8 @@
 
 [ログローテート](./2020/12/2/log_rotate)
 
+[CLI](./2020/12/3/cli)
+
 
 You can use the [editor on GitHub](https://github.com/06-de15/memo.deee.tech/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
