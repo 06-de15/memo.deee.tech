@@ -1,26 +1,28 @@
 ## Welcome to deee's memo
-[粒度とは](./2020/10/20/ryudo)
-
-[変数とは](./2020/10/21/hensuu)
-
-[インターフェースとは](./2020/10/22/interface)
-
-[文字列の連結方法](./2020/10/23/mojiretsu_renketu)
-
-[配列](./2020/10/27/hairetu)
-
-[Windows10でPower Shellを管理者として実行したかった](./2020/11/13/win10-Administrator)
-
-[36協定](./2020/11/25/36)
-
-[ログローテート](./2020/12/2/log_rotate)
-
-[CLI](./2020/12/3/cli)
 
 [A/Bテスト](./2020/12/3/a_b_test)
 
 [Apache Bench](./2020/12/3/apache_bench)
 
+[CLI](./2020/12/3/cli)
+
+[Hyper-Threading](./2020/12/4/hyper_threading)
+
+[Windows10でPower Shellを管理者として実行したかった](./2020/11/13/win10-Administrator)
+
+[インターフェースとは](./2020/10/22/interface)
+
+[配列](./2020/10/27/hairetu)
+
+[変数とは](./2020/10/21/hensuu)
+
+[文字列の連結方法](./2020/10/23/mojiretsu_renketu)
+
+[粒度とは](./2020/10/20/ryudo)
+
+[ログローテート](./2020/12/2/log_rotate)
+
+[36協定](./2020/11/25/36)
 
 You can use the [editor on GitHub](https://github.com/06-de15/memo.deee.tech/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
