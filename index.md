@@ -10,6 +10,8 @@
 
 [Windows10でPower Shellを管理者として実行したかった](./2020/11/13/win10-Administrator)
 
+[WSL2を入れてみた](./2020/12/7/wsl2)
+
 [インターフェースとは](./2020/10/22/interface)
 
 [配列](./2020/10/27/hairetu)
