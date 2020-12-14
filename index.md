@@ -16,6 +16,8 @@
 
 [Poppers.js](./2020/12/9/poppers)
 
+[SendGrid](./2020/12/9/sendgrid)
+
 [Windows10でPower Shellを管理者として実行したかった](./2020/11/13/win10-Administrator)
 
 [WSL2を入れてみた](./2020/12/7/wsl2)
