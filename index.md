@@ -12,7 +12,7 @@
 
 [PDCAサイクル](./2020/12/9/pdca)
 
-[Poppver](./2020/12/9/popover)
+[Popver](./2020/12/9/popover)
 
 [Windows10でPower Shellを管理者として実行したかった](./2020/11/13/win10-Administrator)
 
