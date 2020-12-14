@@ -6,6 +6,8 @@
 
 [CLI](./2020/12/3/cli)
 
+[developer](./2020/12/9/developer)
+
 [Hyper-Threading](./2020/12/4/hyper_threading)
 
 [Windows10でPower Shellを管理者として実行したかった](./2020/11/13/win10-Administrator)
