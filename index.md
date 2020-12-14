@@ -10,6 +10,8 @@
 
 [Hyper-Threading](./2020/12/4/hyper_threading)
 
+[PDCAサイクル](./2020/12/9/pdca)
+
 [Windows10でPower Shellを管理者として実行したかった](./2020/11/13/win10-Administrator)
 
 [WSL2を入れてみた](./2020/12/7/wsl2)
