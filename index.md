@@ -1,26 +1,26 @@
 ## Welcome to deee's memo
 
-[A/Bテスト](./2020/12/3/a_b_test)
+[A/Bテスト](./2020/12/03/a_b_test)
 
-[Apache Bench](./2020/12/3/apache_bench)
+[Apache Bench](./2020/12/03/apache_bench)
 
-[CLI](./2020/12/3/cli)
+[CLI](./2020/12/03/cli)
 
-[developer](./2020/12/9/developer)
+[developer](./2020/12/09/developer)
 
-[Hyper-Threading](./2020/12/4/hyper_threading)
+[Hyper-Threading](./2020/12/04/hyper_threading)
 
-[PDCAサイクル](./2020/12/9/pdca)
+[PDCAサイクル](./2020/12/09/pdca)
 
-[Popver](./2020/12/9/popover)
+[Popver](./2020/12/09/popover)
 
-[Poppers.js](./2020/12/9/poppers)
+[Poppers.js](./2020/12/09/poppers)
 
-[SendGrid](./2020/12/9/sendgrid)
+[SendGrid](./2020/12/09/sendgrid)
 
 [Windows10でPower Shellを管理者として実行したかった](./2020/11/13/win10-Administrator)
 
-[WSL2を入れてみた](./2020/12/7/wsl2)
+[WSL2を入れてみた](./2020/12/07/wsl2)
 
 [WSL2でエラーが起こったのでまとめてみた](./2020/12/14/wsl2_error)
 
@@ -36,7 +36,7 @@
 
 [粒度とは](./2020/10/20/ryudo)
 
-[ログローテート](./2020/12/2/log_rotate)
+[ログローテート](./2020/12/02/log_rotate)
 
 [36協定](./2020/11/25/36)
 
